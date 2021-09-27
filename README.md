@@ -13,3 +13,6 @@ The following are the two datasets that will be used to build the investment por
 
 ## Notebooks
 The various notebooks ordered in consecutive order conduct Exploratory Data Analysis that later will allow implementing various models like Bayesian, Regression, and k-fold cross-validation to build our investment portfolio.
+
+&nbsp;&nbsp; ### Representaqtion.inpt 
+&nbsp;&nbsp;&nbsp; This is the process of cleaning the data to have a more defind data set, and have more accuracy in our predictions. We remove all variables that have more than 20% missing data, for the remainning missing data, we use the method of imputating data by butting the mean of the numeric variables for the missing numeric values, and the median for the character values. To apply PCA methods, we filter the numeric values. PCA helps us normalize the data, to avoid having large scale data. By visualizing the varience of each principal variable, we are able to see the variables with varying values. By later comparing PC2 and PC2 using a scatter plot, it hels us see their relation to the growth variable, as we were able to see that PC1 and PC2 fit with the values of big_growth.
