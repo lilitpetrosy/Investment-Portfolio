@@ -6,8 +6,8 @@
 - Project Description
 - Technical Dependencies
 - Features
--  - Notebooks
--  - Data
+   - Notebooks
+   - Data
 - Benefits and Uses
 - Additional Reading Material
 
@@ -18,9 +18,8 @@ With more than 41000 publicly traded company stocks out in the market data scien
 
 This project consists of various notebooks conducting exploratory data analysis to determine features that affect stock prices based on 2017 stock market data and later use different machine learning algorithms to predict stocks that will perform best in 2018. 
 
-
-
-
+### Technical Dependencies
+- 
 
 ## Overview
 The following are various processes to build an investment portfolio by the highest growth predicted by implementing various models to company stock data of 2017 and 2018. By using the insights gleaned along with additional analysis to recommend a portfolio of 12 company investments that maximize the 12-month return of an overall \$1,000,000 investment.
