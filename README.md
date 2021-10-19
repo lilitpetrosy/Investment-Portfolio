@@ -1,6 +1,6 @@
 # Investment-Portfolio
 
-![](InVestment-2.png)
+![](InVestment-3.png)
 
 ## Overview
 The following are various processes to build an investment portfolio by the highest growth predicted by implementing various models to company stock data of 2017 and 2018. By using the insights gleaned along with additional analysis to recommend a portfolio of 12 company investments that maximize the 12-month return of an overall \$1,000,000 investment.
