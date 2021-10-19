@@ -34,9 +34,9 @@ This project consists of various notebooks conducting exploratory data analysis 
 The following are various peaces to build an investment portfolio by the highest growth predicted by implementing various models to company stock data of 2017 and 2018. By using the insights gleaned along with additional analysis to recommend a portfolio of 12 company investments that maximize the 12-month return of an overall \$1,000,000 investment.
 
 #### Data
-> **Company Fundamentals 2017.csv** \
-> **Company Fundamentals 2018.csv** \
-> **Data Dictionary** \
+- **Company Fundamentals 2017.csv** 
+- **Company Fundamentals 2018.csv** 
+- **Data Dictionary** 
 
 
 
