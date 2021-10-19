@@ -19,7 +19,18 @@ With more than 41000 publicly traded company stocks out in the market data scien
 This project consists of various notebooks conducting exploratory data analysis to determine features that affect stock prices based on 2017 stock market data and later use different machine learning algorithms to predict stocks that will perform best in 2018. 
 
 ### Technical Dependencies
-- 
+- [dplyr](https://dplyr.tidyverse.org)
+- [ggplot2](https://ggplot2.tidyverse.org)
+- [knitr](https://yihui.org/knitr/)
+- [dt](https://rstudio.github.io/DT/)
+- [mlr](https://mlr.mlr-org.com)
+- [stringR](https://stringr.tidyverse.org)
+- [randomForest](https://www.rdocumentation.org/packages/randomForest/versions/4.6-14/topics/randomForest)
+- [knn](https://www.rdocumentation.org/packages/randomForest/versions/4.6-14/topics/randomForest)
+- [svm](https://cran.r-project.org/web/packages/e1071/vignettes/svmdoc.pdf)
+- [kfold](https://www.rdocumentation.org/packages/dismo/versions/1.3-3/topics/kfold)
+- [PCA](https://towardsdatascience.com/principal-component-analysis-pca-101-using-r-361f4c53a9ff)
+- [Naive Bayes](https://www.r-bloggers.com/2021/04/naive-bayes-classification-in-r/)
 
 ## Overview
 The following are various processes to build an investment portfolio by the highest growth predicted by implementing various models to company stock data of 2017 and 2018. By using the insights gleaned along with additional analysis to recommend a portfolio of 12 company investments that maximize the 12-month return of an overall \$1,000,000 investment.
