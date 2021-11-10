@@ -61,4 +61,7 @@ The following are various peaces to build an investment portfolio by the highest
 > The notebook focuses on tuning our the models we have experimented with in the previous notebooks to achiave the best accuracy for the predictions of closing 
 > stock prices.
 
+> **Deployment.ipynb**  \
+> The notebook finalizes the work by picking the model that best fits the accuracy and fits with the time and resources of our project. The notebook outputs a csv  > file with the 12 stock recommendations.
+
 
